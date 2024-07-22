@@ -1,0 +1,9 @@
+/TestNG
+/Maven Dependencies
+/JRE System Library
+/target
+/test-output
+.settings
+.classpath
+.DS_Store
+.project
